@@ -2,7 +2,7 @@
 
 
 
-function functionA() {
+function functionA(num) {
     // Write Code here 
 }
 
